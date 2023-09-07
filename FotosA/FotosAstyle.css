@@ -1,9 +1,21 @@
 @charset "UTF-8";
 
 body{background-color: antiquewhite;}
-header{ text-align: center;}
-nav{ }
-main{ }
+
+header{background-color:rgb(209, 209, 236); text-align: center; line-height: 1px; padding: 5px; margin-bottom: 03px;}
+
+nav{background-color: rgb(125, 125, 224); text-align: center; margin: 10px 20px 30px 20px; padding-top: 0px;
+box-shadow: 10px 10px 20px black;}
+
+nav>a{margin: 0px 20px 0px 20px;}
+
+main{background-color: rgb(119, 119, 209); padding: 20px;}
+
 section{ }
+
 article{ }
-footer{ }
+
+footer{background-color: rgb(130, 130, 165); }
+
+.centraliza{text-align: center;}
+
