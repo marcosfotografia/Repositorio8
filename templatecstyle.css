@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* CORES */
+
+
+body{background-color: #4488E1; }
+
+header{text-align: center;  background-color:#ada117 ;  line-height:1px; padding: 1px; }
+
+nav{background-color:#ada117  ; text-align: center; 
+margin-top: 3PX;} /*Espaço entre o Header e o Nav */
+nav>a{margin-right: 20px;}  /*Espaço entre os links*/
+
+main{background-color:#ADA117 ;
+margin: 5px 60px 25px 60px;  /*Espaço em volta da caixa do Main - Diminui o tamanho do box Main*/
+padding:  20px;  /* Espaço em volta do texto  */
+border-radius: 20px;
+box-shadow: 10px 20px 10px black;
+}
+
+section{ }
+
+article{ }
+article>p{text-indent: 30px;}   /* dois dedos */
+
+footer{background-color:#ADA117 ; text-align: center;}
+
+
+
+
+
+
